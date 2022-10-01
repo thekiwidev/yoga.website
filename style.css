@@ -153,3 +153,8 @@ section.join-now {
 section.join-now .content {
   width: 40%;
 }
+
+section.join-now .content h1 {
+  font-size: 3rem;
+  width: 70%;
+}
